@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Victor!
+- 👋 Hey, my name is Victor!
 - 👀 I’m interested in web development and UX/UI :)
 - 🌱 I’m currently learning Javascript and React!
 - 💞️ I’m looking to collaborate on web projects & web applications, mainly the front end.
